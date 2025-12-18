@@ -39,6 +39,7 @@ The setup was as follows with two pumps stemming from a hot reservoir and a cold
 
 The following is a picture of the cross section of the heat exchanger device that was used. Clearly, there are many spaces for the fluids to interact with one another without direct contact to transfer heat. 
 
+(/assets/images/actual-heat-exchanger.jpg)
 ![Heat exchanger]({{ "/assets/images/actual-heat-exchanger.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
 
 ![Heat exchanger Process]({{ "/assets/images/heat-exchanger-process.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
