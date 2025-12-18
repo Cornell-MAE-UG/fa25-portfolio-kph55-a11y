@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Keira He - Curriculum Vitae
 permalink: /cv/
 ---
 ## Curriculum Vitae
@@ -20,7 +20,7 @@ Aspiring engineering student with a strong foundation in.... Passionate about ..
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  GPA: 3.5/4.0 | Graduation: May, 2028
 
 - **[High School Name]**  
   *High School Diploma*  
