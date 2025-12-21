@@ -39,16 +39,10 @@ The setup was as follows with two pumps stemming from a hot reservoir and a cold
 
 The following is a picture of the cross section of the heat exchanger device that was used. Clearly, there are many spaces for the fluids to interact with one another without direct contact to transfer heat. 
 
-(/assets/images/actual-heat-exchanger.jpg)
-![Alt Text](/assets/images/actual-heat-exchanger.jpg)
 
-<h5> Heat exchanger </h5>
-<img src="{{'/assets/images/actual-heat-exchanger.jpg' | relative_url }}"
-     style="display: block; width: 100%; margin: 2ren auto;">
+![Heat exchanger]({{ "/assets/images/actual-heat-exchanger.jpeg" | relative_url }}){: .inline-image-r style="width: 200px"}
 
-![Heat exchanger]({{ "/assets/images/actual-heat-exchanger.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
-
-![Heat exchanger Process]({{ "/assets/images/heat-exchanger-process.jpg" | relative_url }}){: .inline-image-r style="width: 200px"}
+![Heat exchanger Process]({{ "/assets/images/heat-exchanger-process.jpeg" | relative_url }}){: .inline-image-r style="width: 200px"}
 
 
 The data that my group collected was the temperatures of the cold and hot fluid, named based on their initial temperatures relative to one another.
