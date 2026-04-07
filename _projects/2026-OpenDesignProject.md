@@ -150,6 +150,10 @@ The functional prototype consists of the following parts:
 ![Components and Functions Illustration](/assets/images/components-and-functions.png)
 *Components and Functions Illustration*
 
+![View of the Whole Assembly in CAD](/assets/images/CAD-whole-assy.png)
+*View of the Whole Assembly in CAD*
+
+
 ---
 
 ## Design Tests
