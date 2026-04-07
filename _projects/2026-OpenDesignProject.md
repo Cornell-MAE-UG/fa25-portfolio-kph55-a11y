@@ -195,8 +195,6 @@ One egg mass must be completely removed and destroyed in less than **10 seconds*
 ### Criterion 4: Residue Capture
 The device must funnel at least **80%** of the egg residue into the attached bottle. This criterion assesses cleanliness and collection performance. It will be measured by comparing the mass or count of collected residue in the bottle to the total removed residue. Increasing the capture percentage is a high priority.
 
----
-
-## Exhibit-Day Demonstration Criterion
+### Exhibit-Day Demonstration Criterion
 
 Our exhibit-day demonstration will focus on two criteria that produce visible and measurable outcomes: complete egg-mass removal in under 10 seconds and at least 80% residue capture in the bottle. During the demo, the team will use a substitute egg mass on a test surface, time the removal process, and show that most of the residue is visibly directed into the bottle attachment.
