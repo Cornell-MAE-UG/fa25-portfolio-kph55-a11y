@@ -20,6 +20,10 @@ header-includes:
 - '\renewcommand{\subsection}{\@startsection{subsection}{2}{0pt}{1.5pt}{0.5pt}{\normalfont\large\bfseries}}'
 - '\makeatother'
 ---
+## Table of Contents
+- [Client Pitch](#client-pitch)
+- [Functional Prototype](#functional-prototype)
+
 # Client Pitch
 
 
@@ -89,7 +93,7 @@ Elimination of SLF eggs prevents the development of adult populations causing th
 ![Average SLFs per Vine (2018-2020)]({{ "/assets/images/avg_slf_per_vine.png" | relative_url }}){: style="max-width:100%; width:450px; height:auto; display:block; margin:0 auto;"}
 ---
 
-
+---
 # Functional Prototype
 
 ---
