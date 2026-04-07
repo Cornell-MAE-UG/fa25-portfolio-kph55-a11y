@@ -131,22 +131,6 @@ The functional prototype consists of the following parts:
 | Scraper | 3D printed at RPL | Removes egg masses from the surface and guides debris toward the bottle attachment |
 | Bottle Thread Connector | 3D printed (lower housing) | Interfaces with a standard plastic bottle for residue collection |
 
----
-
-## Assembly Process
-
-1. **Prepare the spring-and-rod subassembly** — Place the compression spring onto the rigid rod. The front circular plate and the rigid rod are designed as a single 3D-printed part, so the spring is seated directly onto this rod-and-plate subassembly.
-
-2. **Prepare the shell casing** — Take the printed shell / housing and inspect the rear opening to confirm that the spring-loaded subassembly can be inserted without interference.
-
-3. **Insert the spring-loaded plate into the housing** — Slide the plate-with-spring subassembly into the shell casing through the rear opening so that the spring and rod align with the internal axis of the housing.
-
-4. **Attach the pull knob** — Screw the pull knob onto the exposed end of the rigid rod at the back of the housing. This creates the user-actuated interface for compressing the spring.
-
-5. **Install the scraper** — Thread the scraper through the back opening of the housing and position it so that it aligns with the front opening where the egg mass will be contacted.
-
-6. **Attach the scraper plate to the rigid rod** — Secure the scraper plate to the rigid rod so that motion of the rod and spring mechanism drives the scraper/stomping action.
-
 ![Components and Functions Illustration]({{ "/assets/images/components-and-functions.png" | relative_url }}){: style="max-width:100%; width:450px; height:auto; display:block; margin:0 auto;"}
 <p style="text-align:center; font-style:italic;">Components and Functions Illustration</p>
 
@@ -163,6 +147,24 @@ The functional prototype consists of the following parts:
     <p style="font-style:italic;">Scraper and Inside Assembly</p>
   </div>
 </div>
+
+---
+
+## Assembly Process
+
+1. **Prepare the spring-and-rod subassembly** — Place the compression spring onto the rigid rod. The front circular plate and the rigid rod are designed as a single 3D-printed part, so the spring is seated directly onto this rod-and-plate subassembly.
+
+2. **Prepare the shell casing** — Take the printed shell / housing and inspect the rear opening to confirm that the spring-loaded subassembly can be inserted without interference.
+
+3. **Insert the spring-loaded plate into the housing** — Slide the plate-with-spring subassembly into the shell casing through the rear opening so that the spring and rod align with the internal axis of the housing.
+
+4. **Attach the pull knob** — Screw the pull knob onto the exposed end of the rigid rod at the back of the housing. This creates the user-actuated interface for compressing the spring.
+
+5. **Install the scraper** — Thread the scraper through the back opening of the housing and position it so that it aligns with the front opening where the egg mass will be contacted.
+
+6. **Attach the scraper plate to the rigid rod** — Secure the scraper plate to the rigid rod so that motion of the rod and spring mechanism drives the scraper/stomping action.
+
+![Assembly Illustration]({{ "/assets/images/assy-illustration.png" | relative_url }}){: style="max-width:100%; width:450px; height:auto; display:block; margin:0 auto;"}
 
 ---
 
