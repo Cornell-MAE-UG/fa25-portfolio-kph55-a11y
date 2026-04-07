@@ -71,9 +71,6 @@ Elimination of SLF eggs prevents the development of adult populations causing th
 
 
 
-Keira He <kph55@cornell.edu>
-10:05 PM (13 minutes ago)
-to me
 
 ## References
 
@@ -94,16 +91,6 @@ to me
 
 
 # Functional Prototype
----
-layout: project
-title: "Functional Prototype"
----
-
-# Functional Prototype
-
-**Team:** Big Red Stompers
-**Members:** Joaquin Perez (jep369), Keira He (kph55), Andrew Ordway (aso39), Felicity Wu (fyw5), Wasif Atcha (wa79)
-**Course:** MAE 2250
 
 ---
 
