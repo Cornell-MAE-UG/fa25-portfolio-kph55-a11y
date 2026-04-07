@@ -147,12 +147,16 @@ The functional prototype consists of the following parts:
 
 6. **Attach the scraper plate to the rigid rod** — Secure the scraper plate to the rigid rod so that motion of the rod and spring mechanism drives the scraper/stomping action.
 
-![Components and Functions Illustration](/assets/images/components-and-functions.png)
+![Components and Functions Illustration]({{ "/assets/images/components-and-functions.png" | relative_url }}){: style="max-width:100%; width:450px; height:auto; display:block; margin:0 auto;"}
 *Components and Functions Illustration*
+
+<!--
+![Components and Functions Illustration](/assets/images/components-and-functions.png)
+
 
 ![View of the Whole Assembly in CAD](/assets/images/CAD-whole-assy.png)
 *View of the Whole Assembly in CAD*
-
+-->
 
 ---
 
