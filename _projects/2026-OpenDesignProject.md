@@ -150,8 +150,19 @@ The functional prototype consists of the following parts:
 ![Components and Functions Illustration]({{ "/assets/images/components-and-functions.png" | relative_url }}){: style="max-width:100%; width:450px; height:auto; display:block; margin:0 auto;"}
 <p style="text-align:center; font-style:italic;">Components and Functions Illustration</p>
 
-![View of the Whole Assembly in CAD](/assets/images/cad-whole-assy.png)
-<p align="center"><em>View of the Whole Assembly in CAD</em></p>
+
+
+<!--Side by side images-->
+<div style="display:flex; gap:10px; justify-content:center;">
+  <div style="text-align:center;">
+    <img src="{{ '/assets/images/cad-whole-assy.png' | relative_url }}" style="width:100%; height:auto;">
+    <p style="font-style:italic;">View of the Whole Assembly in CAD</p>
+  </div>
+  <div style="text-align:center;">
+    <img src="{{ '/assets/images/scraper-and-inside-assy.png' | relative_url }}" style="width:100%; height:auto;">
+    <p style="font-style:italic;">Scraper and Inside Assembly</p>
+  </div>
+</div>
 
 <!--
 
