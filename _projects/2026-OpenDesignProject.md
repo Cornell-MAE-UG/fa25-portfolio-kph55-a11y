@@ -155,11 +155,11 @@ The functional prototype consists of the following parts:
 <!--Side by side images-->
 <div style="display:flex; gap:10px; justify-content:center;">
   <div style="text-align:center;">
-    <img src="/assets/images/cad-whole-assy.png" style="width:100%; height:auto;">
+    <img src="{{ site.baseurl }}/assets/images/cad-whole-assy.png" style="width:100%; height:auto;">
     <p style="font-style:italic;">View of the Whole Assembly in CAD</p>
   </div>
   <div style="text-align:center;">
-    <img src="/assets/images/scraper-and-inside-assy.png" style="width:100%; height:auto;">
+    <img src="{{ site.baseurl }}/assets/images/scraper-and-inside-assy.png" style="width:100%; height:auto;">
     <p style="font-style:italic;">Scraper and Inside Assembly</p>
   </div>
 </div>
