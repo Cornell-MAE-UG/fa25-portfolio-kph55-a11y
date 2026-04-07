@@ -98,7 +98,7 @@ Elimination of SLF eggs prevents the development of adult populations causing th
 
 ---
 
-## Table of Contents
+## In This Section
 - [Design Intent and Functionality](#design-intent-and-functionality)
 - [Parts List and Fabrication Details](#parts-list-and-fabrication-details)
 - [Assembly Process](#assembly-process)
