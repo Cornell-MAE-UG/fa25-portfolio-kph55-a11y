@@ -75,7 +75,7 @@ Elimination of SLF eggs prevents the development of adult populations causing th
 
 
 
-
+<!--
 ## References
 
 - New York State Integrated Pest Management. (n.d.). Spotted lanternfly management. https://cals.cornell.edu/integrated-pest-management/outreach-education/whats-bugging-you/spotted-lanternfly
@@ -85,7 +85,7 @@ Elimination of SLF eggs prevents the development of adult populations causing th
     %20of%20infestation%2C.
 
 - Krawczyk, G. (2023, August 30). What should you do with spotted lanternfly egg masses? PennState Extension. https://extension.psu.edu/what-should-you-do-with-spotted-lanternfly-egg-masses
-
+-->
 
 ## Figure
 
