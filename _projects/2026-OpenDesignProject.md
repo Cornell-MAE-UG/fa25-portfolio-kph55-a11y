@@ -130,7 +130,7 @@ The functional prototype consists of the following parts:
 | Scraper | 3D printed at RPL | Removes egg masses from the surface and guides debris toward the bottle attachment |
 | Bottle Thread Connector | 3D printed (lower housing) | Interfaces with a standard plastic bottle for residue collection |
 
-![Components and Functions Illustration]({{ "/assets/images/components-and-functions.png" | relative_url }}){: style="max-width:100%; width:450px; height:auto; display:block; margin:0 auto;"}
+![Components and Functions Illustration]({{ "/assets/images/components-and-functions.png" | relative_url }}){: style="max-width:100%; width:600px; height:auto; display:block; margin:0 auto;"}
 <p style="text-align:center; font-style:italic;">Components and Functions Illustration</p>
 
 ![View of the Whole Assembly in CAD]({{ "/assets/images/cad-whole-assy.png" | relative_url }}){: style="max-width:100%; width:450px; height:auto; display:block; margin:0 auto;"}
@@ -167,7 +167,7 @@ The functional prototype consists of the following parts:
 
 6. **Attach the scraper plate to the rigid rod** — Secure the scraper plate to the rigid rod so that motion of the rod and spring mechanism drives the scraper/stomping action.
 
-![Assembly Illustration]({{ "/assets/images/assy-illustration.png" | relative_url }}){: style="max-width:100%; width:450px; height:auto; display:block; margin:0 auto;"}
+![Assembly Illustration]({{ "/assets/images/assy-illustration.png" | relative_url }}){: style="max-width:100%; width:600px; height:auto; display:block; margin:0 auto;"}
 
 ---
 
