@@ -133,9 +133,13 @@ The functional prototype consists of the following parts:
 ![Components and Functions Illustration]({{ "/assets/images/components-and-functions.png" | relative_url }}){: style="max-width:100%; width:450px; height:auto; display:block; margin:0 auto;"}
 <p style="text-align:center; font-style:italic;">Components and Functions Illustration</p>
 
+![View of the Whole Assembly in CAD]({{ "/assets/images/cad-whole-assy.png" | relative_url }}){: style="max-width:100%; width:450px; height:auto; display:block; margin:0 auto;"}
+<p style="text-align:center; font-style:italic;">Components and Functions Illustration</p>
 
+![Scraper and Inside Assembly]({{ "/assets/images/scraper-and-inside-assy.png" | relative_url }}){: style="max-width:100%; width:450px; height:auto; display:block; margin:0 auto;"}
+<p style="text-align:center; font-style:italic;">Components and Functions Illustration</p>
 
-<!--Side by side images-->
+<!--Side by side images
 <div style="display:flex; gap:10px; justify-content:center;">
   <div style="text-align:center;">
     <img src="{{ site.baseurl }}/assets/images/cad-whole-assy.png" style="width:100%; height:auto;">
@@ -146,7 +150,7 @@ The functional prototype consists of the following parts:
     <p style="font-style:italic;">Scraper and Inside Assembly</p>
   </div>
 </div>
-
+-->
 ---
 
 ## Assembly Process
