@@ -21,8 +21,9 @@ header-includes:
 - '\makeatother'
 ---
 ## Table of Contents
-- [Client Pitch](#client-pitch)
-- [Functional Prototype](#functional-prototype)
+- [Client Pitch](#client-pitch) — Initial problem framing and concept proposal
+- [Functional Prototype](#functional-prototype) — First working build and integration of subsystems
+- [Client Report](#client-report) — Final prototype, testing results, and recommended next steps
 
 # Client Pitch
 
@@ -217,3 +218,58 @@ The device must funnel at least **80%** of the egg residue into the attached bot
 ### Exhibit-Day Demonstration Criterion
 
 Our exhibit-day demonstration will focus on two criteria that produce visible and measurable outcomes: complete egg-mass removal in under 10 seconds and at least 80% residue capture in the bottle. During the demo, the team will use a substitute egg mass on a test surface, time the removal process, and show that most of the residue is visibly directed into the bottle attachment.
+
+---
+
+## Client Report {#client-report}
+
+### Context and Problem
+Spotted lanternflies (SLF) pose a growing threat to vineyards. Each egg mass contains 30–60 eggs, driving exponential population growth and peak crop damage as nymphs develop into adults (Chamberlin). Left unchecked, infestations could cost regions like Lake Erie and the Finger Lakes around $1.5 million in year one and up to $8.8 million by year three (Hayes), making the egg stage the most effective intervention point. Current methods like netting are difficult to scale, the eggs harden over time and become harder to remove, and the public is often discouraged from removing them because of how off-putting the process is. These constraints are why we designed a more effective, user-friendly egg removal solution.
+
+### Final Prototype and Application
+The Stomp n' Scrape is a handheld device that targets SLF egg masses. A stomper crushes the eggs and a scraper sweeps them into a sealed bottle. The product is compact, portable, cost-efficient, and easy to manufacture — built so a wide public audience, not just grape farmers, can help address SLF populations.
+
+To assemble the device, the housing threads onto a plastic water bottle. The spring sits on the stomper's rod, which is threaded onto the knob. The scraper sits in the ring holder when the device is not in use. To crush eggs, the user pulls the knob back and releases it, repeating until the eggs are sufficiently crushed. The scraper is then inserted through the slits, allowing the user to clean the stomper face.
+
+### Prototype and Testing Details
+The prototype used in the following tests is the final 3D print the Big Red Stompers manufactured given the time constraints of the course. The print was made in PETG with the scraper attachment on the left side of the housing.
+
+**Test 1 — Stomper Effectiveness.** We used mustard seeds as a stand-in for SLF eggs — a conservative model since they are harder to crush than real SLF eggs. We measured the percentage of seeds crushed after one to five stomps, with a benchmark of 99%+ at five stomps. This test was important to show the concept could produce effective results. *Result:* The stomping component is optimized to destroy egg masses within a reasonable number of stomps. Further testing on durability under repeated use is still needed.
+
+![Seeds Crushed vs. Number of Stomps]({{ "/assets/images/seeds_crushed_vs_stomps.png" | relative_url }}){: style="max-width:100%; width:600px; height:auto; display:block; margin:1em auto;"}
+
+**Test 2 — Time of One Use.** We timed one full stomp-and-scrape cycle: five sets of five stomps and one scrape at varying heights on a tree, using a chia/mustard seed mix to simulate egg masses, repeated three times. Ease of use is critical for a public consumer base. *Result:* All cycles satisfied the under-120-second target. Time-of-use can be further reduced by moving the scraper holder to the right-hand side of the casing for right-handed users, and adding a stopper at the end of the scraper so it auto-aligns with the device, reducing the positioning time before scraping.
+
+![Trial Number and Use Time for One Cycle]({{ "/assets/images/cycle_time_per_trial.png" | relative_url }}){: style="max-width:100%; width:600px; height:auto; display:block; margin:1em auto;"}
+
+**Test 3 — Scraper Effectiveness.** We covered the stomper with chia seeds at 100%, 75%, 50%, 25%, and 10% surface coverage, then recorded the percentage of surface area still covered after one scrape pass. This is relevant to how cleanly and reusably the device performs. *Result:* Most residue collected at the top edge and bottom corners of the stomper — outside the scraper's current range of motion. Lengthening the slots on both sides of the housing would extend the scraper's range and address these weak spots.
+
+![Scraper Effectiveness: Surface Area vs. Percentage of Seeds Scraped]({{ "/assets/images/scraper_effectiveness.png" | relative_url }}){: style="max-width:100%; width:600px; height:auto; display:block; margin:1em auto;"}
+
+### Conclusion and Recommendation
+The overall mechanism works, but testing surfaced several areas for improvement. First, the scraper should be redesigned with longer side tracks to extend its range of motion, since Test 3 showed weak spots on the edges of the face the scraper currently cannot access. Second, the knob should be redesigned with a hook shape to give users a more secure grip, which would shorten time-of-use. Finally, future iterations should test different print materials and add durability testing to ensure the product is reusable and reliable.
+
+Because the final prototype is inexpensive to manufacture, the Stomp n' Scrape has strong potential to scale for public use with minor design improvements. Since the target users are the general public rather than only grape farmers, marketing through TikTok, Instagram, and other social media platforms could help drive adoption. Outreach to environmental and agricultural entities with a vested interest in reducing SLF populations could further support distribution — those entities could sponsor and purchase the product for consumers who would use it if they could obtain it for free.
+### Bill of Materials
+
+| Item | Cost | Stage |
+|---|---|---|
+| Compression Spring #1 | $6.05 | Prototyping |
+| 3D Print #1 (PLA) | $3.18 | Prototyping |
+| 3D Print #2 (PETG) | $3.14 | Prototyping |
+| Mustard Seeds | $5.99 | Testing |
+| Chia Seeds | $8.98 | Testing |
+| 3D Print #3 (PETG) | $3.14 | Prototyping |
+| Compression Spring #2 | $4.60 | Final Prototype |
+| 3D Print #4 (PETG) | $3.14 | Final Prototype |
+| **Total project cost** | **$38.22** | |
+| **Final prototype cost** | **$7.74** | |
+
+### Final Component List
+- 3D-printed shell, plate, knob, and scraper
+- Compression spring (McMaster-Carr)
+
+### References
+
+- Chamberlin, L. (2022, February 23). *Spotted lanternfly egg mass scouting — DIY!* Virginia Department of Forestry. <https://dof.virginia.gov/spotted-lanternfly-egg-mass-scouting-diy/>
+- Hayes, C. (2025, January 27). *Spotted lanternflies could cost NYS grape industry millions.* Cornell Chronicle. <https://news.cornell.edu/stories/2025/01/spotted-lanternflies-could-cost-nys-grape-industry-millions>
