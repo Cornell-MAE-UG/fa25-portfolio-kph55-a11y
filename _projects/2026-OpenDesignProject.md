@@ -75,8 +75,6 @@ Elimination of SLF eggs prevents the development of adult populations causing th
   *Decision affected:* This would affect our focus from egg masses, potentially shifting our direction to solving the problem of SLFs in their adulthood phase.
 
 
-
-<!--
 ## References
 
 - New York State Integrated Pest Management. (n.d.). Spotted lanternfly management. https://cals.cornell.edu/integrated-pest-management/outreach-education/whats-bugging-you/spotted-lanternfly
@@ -86,7 +84,7 @@ Elimination of SLF eggs prevents the development of adult populations causing th
     %20of%20infestation%2C.
 
 - Krawczyk, G. (2023, August 30). What should you do with spotted lanternfly egg masses? PennState Extension. https://extension.psu.edu/what-should-you-do-with-spotted-lanternfly-egg-masses
--->
+
 
 ## Figure
 
@@ -230,6 +228,8 @@ Spotted lanternflies (SLF) pose a growing threat to vineyards. Each egg mass con
 The Stomp n' Scrape is a handheld device that targets SLF egg masses. A stomper crushes the eggs and a scraper sweeps them into a sealed bottle. The product is compact, portable, cost-efficient, and easy to manufacture — built so a wide public audience, not just grape farmers, can help address SLF populations.
 
 To assemble the device, the housing threads onto a plastic water bottle. The spring sits on the stomper's rod, which is threaded onto the knob. The scraper sits in the ring holder when the device is not in use. To crush eggs, the user pulls the knob back and releases it, repeating until the eggs are sufficiently crushed. The scraper is then inserted through the slits, allowing the user to clean the stomper face.
+
+![Assembly diagram for the Stomp n' Scrape]({{ "/assets/images/assembly_diagram.png" | relative_url }}){: style="max-width:100%; width:700px; height:auto; display:block; margin:1em auto;"}
 
 ### Prototype and Testing Details
 The prototype used in the following tests is the final 3D print the Big Red Stompers manufactured given the time constraints of the course. The print was made in PETG with the scraper attachment on the left side of the housing.
